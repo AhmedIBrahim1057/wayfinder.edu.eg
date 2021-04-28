@@ -43,7 +43,7 @@
         <img src="images/components/bar.png" alt="" class="bar">
         <div class="menu-icons">
             <div class="icon persons px-2 py-4">
-                <a href="/home">
+                <a href="/">
                     <img src="images/components/back.png" alt="">
                 </a>
             </div>
