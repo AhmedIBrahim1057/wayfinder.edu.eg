@@ -20,7 +20,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Amr Elbanhawy</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Amr Elbanhawy</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -32,7 +32,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/gendy.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Mohamed Elgendy</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mohamed Elgendy</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -44,7 +44,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Hossam Salah</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Hossam Salah</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -56,7 +56,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Islam Mohamed</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Islam Mohamed</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -68,7 +68,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Gust</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Gust</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -86,7 +86,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/tamer.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Tamer Elnady</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Tamer Elnady</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -98,7 +98,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/adel.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Adel Elsabbagh</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Adel Elsabbagh</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -110,7 +110,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/a.yahia.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Ahmed Yahia</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ahmed Yahia</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -122,7 +122,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/sherif.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Sherif Elnabarawy</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Sherif Elnabarawy</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -134,7 +134,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/mina.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Mina Wagih</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mina Wagih</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -146,7 +146,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/omneya.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Omneya Yousry</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Omneya Yousry</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -158,7 +158,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Sherif Okda</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Sherif Okda</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -170,7 +170,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Ahmed Abosrea</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ahmed Abosrea</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -182,7 +182,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Enas Hassan</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Enas Hassan</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -194,7 +194,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/haitham.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Haitham Ahmed</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Haitham Ahmed</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -206,7 +206,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/gamal.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Mohamed Gamal</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mohamed Gamal</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -218,7 +218,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Ahmed Ibrahim</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ahmed Ibrahim</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -230,7 +230,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Nouran Ashraf</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Nouran Ashraf</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -242,7 +242,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Nour Foad</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Nour Foad</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -254,7 +254,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/abanob.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Abanob Fawzy
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Abanob Fawzy
 </strong></h4>
                                                 </div>
                                             </a>
@@ -267,7 +267,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/ehab.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Ehab Naguib</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ehab Naguib</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -279,7 +279,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/mai.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Mai Mostafa</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mai Mostafa</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -291,7 +291,7 @@
                                                     <div style="height: 150px;">
                                                         <img src="/images/components/user.png" alt="" style="width: 90%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 20px ; height: 45px;"><strong>Almostafa Loulah</strong></h4>
+                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Almostafa Loulah</strong></h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -459,7 +459,7 @@
                                                                     </div>
                             </div>
                         </div>
-                                                <div class="row my-3" style="width: fit-content;">
+                                                <div class="row my-3" style="width: fit-content; max-width: 1247px;">
                             <div class="col-md-12">
                                 <div class="places-wrapper">
                                                                         <div  class="text-center d-inline-block">
@@ -553,7 +553,7 @@
                             </div>
                         </div>
                                             </div>
-                    <div class="col-md-4 d-flex align-items-center justify-content-center">
+                    <div class="col-md-4 d-flex align-items-center justify-content-left">
                         <img src="/images/components/bulding.png" alt="gg" style="width: 90%">
                     </div>
                 </div>
