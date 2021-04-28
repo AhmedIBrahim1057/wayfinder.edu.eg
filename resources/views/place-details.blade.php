@@ -13,7 +13,7 @@
             <div class="row pl-5">
                 <div class="col-md-12 pl-md-5 ml-md-5 mt-5 d-flex align-items-center" >
                     <div class="d-inline-block" style="margin-right: -10px">
-                        <img src="images/components/capture.png" alt="" style="height: 145px">
+                        <img src="images/components/vr.png" alt="" style="height: 145px">
                     </div>
                     <div class="place-description p-3" style="width: 60%">
                         <h2>Auditorium 1.5</h2>
