@@ -131,7 +131,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row my-3" style="width: fit-content; ">
+                        <div class="row my-3" class="big-row" style="width: fit-content;">
                             <div class="col-md-12">
                                 <div class="places-wrapper">
                                     <div  class="text-center d-inline-block">
@@ -235,27 +235,19 @@
     </div>
     
     <div class="manu-bar">
-        <img src="images/components/bar.png" alt="" class="bar">
+        <img src="images/components/bar-places.png" alt="" class="bar">
         <div class="menu-icons">
             <a href="/persons">
-                <div class="icon persons px-2 py-4">
-                    <img src="images/components/persons.png" alt="">
-                </div>
+                <div class="px-2 py-5 my-5"></div>
             </a>
             <a href="/floors">
-                <div class="icon floors px-2 py-4">
-                    <img src="images/components/floors.png" alt="">
-                </div>
+                <div class="px-2 py-5 my-5"></div>
             </a>
             <a href="/">
-                <div class="icon places px-2 py-4 icon-translate">
-                    <img src="images/components/places.png" alt="">
-                </div>
+                <div class="px-2 py-5 my-5 icon-translate"></div>
             </a>
             <a href="/search">
-                <div class="icon search px-2 py-4">
-                    <img src="images/components/search.png" alt="">
-                </div>
+                <div class="px-2 py-5 my-5"></div>
             </a>
         </div>
     </div>
