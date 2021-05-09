@@ -76,4 +76,17 @@ class HomeController extends Controller
 
       return response()->json($response);
     }
+
+
+    public function persons() {
+        return view('persons');
+    }
+
+    public function floors() {
+        return view('floors');
+    }
+
+    public function search() {
+        return view('search');
+    }
 }
