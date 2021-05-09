@@ -15,22 +15,22 @@
                         <div class="levels-wrapper" style="width: 100%">
                             <div class="row">
                                 <div class="col-md-3">
-                                    <a href="/place-details">
+                                    <a href="#">
                                         <img src="/images/components/ground.png" alt="" style="width: 80%">
                                     </a>
                                 </div>
                                 <div class="col-md-3">
-                                    <a href="/place-details">
+                                    <a href="#">
                                         <img src="/images/components/floor-1.png" alt="" style="width: 80%">
                                     </a>
                                 </div>
                                 <div class="col-md-3">
-                                    <a href="/place-details">
+                                    <a href="#">
                                         <img src="/images/components/floor-2.png" alt="" style="width: 80%">
                                     </a>
                                 </div>
                                 <div class="col-md-3">
-                                    <a href="/place-details">
+                                    <a href="#">
                                         <img src="/images/components/floor-3.png" alt="" style="width: 80%">
                                     </a>
                                 </div>
@@ -47,16 +47,16 @@
     <div class="manu-bar">
         <img src="images/components/bar-floor.png" alt="" class="bar">
         <div class="menu-icons">
-            <a href="#">
+            <a href="/persons">
                 <div class="px-2 py-5 my-5"></div>
             </a>
-            <a href="#">
+            <a href="/floors">
                 <div class="px-2 py-5 my-5"></div>
             </a>
-            <a href="#">
+            <a href="/">
                 <div class="px-2 py-5 my-5 icon-translate"></div>
             </a>
-            <a href="#">
+            <a href="/search">
                 <div class="px-2 py-5 my-5"></div>
             </a>
         </div>
