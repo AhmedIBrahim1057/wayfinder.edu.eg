@@ -47,16 +47,16 @@
     <div class="manu-bar">
         <img src="images/components/bar-floor.png" alt="" class="bar">
         <div class="menu-icons">
-            <a href="/persons">
+            <a href="#">
                 <div class="px-2 py-5 my-5"></div>
             </a>
-            <a href="/floors">
+            <a href="#">
                 <div class="px-2 py-5 my-5"></div>
             </a>
-            <a href="/">
+            <a href="#">
                 <div class="px-2 py-5 my-5 icon-translate"></div>
             </a>
-            <a href="/search">
+            <a href="#">
                 <div class="px-2 py-5 my-5"></div>
             </a>
         </div>
