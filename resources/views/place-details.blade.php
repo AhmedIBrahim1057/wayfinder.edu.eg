@@ -40,57 +40,16 @@
     </div>
     
     <div class="manu-bar">
+        <a href="/">
         <img src="images/components/bar.png" alt="" class="bar">
         <div class="menu-icons">
             <div class="icon persons px-2 py-4">
-                <a href="/">
+                
                     <img src="images/components/back.png" alt="">
-                </a>
+                
             </div>
         </div>
+        </a>
     </div>
 </div>
-@endsection
-
-@section('scripts')
-<script>
-$(document).ready(function(){
-    $(".persons").click(function(){
-        $(this).addClass("icon-translate");
-        $(".floors").removeClass("icon-translate");
-        $(".places").removeClass("icon-translate");
-        $(".search").removeClass("icon-translate");
-        $(".all-places").css("display","none");
-        $(".all-persons").css("display","block");
-        $(".search-content").css("display","none");
-    });
-    $(".floors").click(function(){
-        $(this).addClass("icon-translate");
-        $(".persons").removeClass("icon-translate");
-        $(".places").removeClass("icon-translate");
-        $(".search").removeClass("icon-translate");
-        $(".all-places").css("display","none");
-        $(".all-persons").css("display","none");
-        $(".search-content").css("display","none");
-    });
-    $(".places").click(function(){
-        $(this).addClass("icon-translate");
-        $(".floors").removeClass("icon-translate");
-        $(".persons").removeClass("icon-translate");
-        $(".search").removeClass("icon-translate");
-        $(".all-places").css("display","block");
-        $(".all-persons").css("display","none");
-        $(".search-content").css("display","none");
-    });
-    $(".search").click(function(){
-        $(this).addClass("icon-translate");
-        $(".floors").removeClass("icon-translate");
-        $(".places").removeClass("icon-translate");
-        $(".persons").removeClass("icon-translate");
-        $(".all-places").css("display","none");
-        $(".all-persons").css("display","none");
-        $(".search-content").css("display","block");
-    });
-});
-</script>
 @endsection

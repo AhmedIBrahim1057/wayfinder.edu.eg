@@ -12,63 +12,51 @@
                 <div class="col-md-12 pr-5">
                         <div class="row my-3" style="margin-right: 100px; width: fit-content;">
                             <div class="col-md-12">
-                                <div class="person-wrapper">
+                                <div class="person-wrapper pl-5">
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Amr Elbanhawy</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Amr Elbanhawy</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/gendy.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/gendy.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mohamed Elgendy</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Mohamed Elgendy</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Hossam Salah</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Hossam Salah</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Islam Mohamed</strong></h4>
-                                                </div>
-                                            </a>
-                                        </div>
-                                        
-                                                                            
-                                        <div  class="text-center d-inline-block" style="height: 200px">
-                                            <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
-                                                <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
-                                                    </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Gust</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Islam Mohamed</h4>
                                                 </div>
                                             </a>
                                         </div>
@@ -78,219 +66,219 @@
                         </div>
                         <div class="row my-3" style="margin-right: 100px; width: fit-content;">
                             <div class="col-md-12">
-                                <div class="person-wrapper">
+                                <div class="person-wrapper pl-5">
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/tamer.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/tamer.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Tamer Elnady</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Tamer Elnady</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/adel.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/adel.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Adel Elsabbagh</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Adel Elsabbagh</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/a.yahia.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/a.yahia.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ahmed Yahia</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Ahmed Yahia</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/sherif.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/sherif.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Sherif Elnabarawy</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Sherif Elnabarawy</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/mina.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/mina.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mina Wagih</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Mina Wagih</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/omneya.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/omneya.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Omneya Yousry</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Omneya Yousry</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Sherif Okda</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Sherif Okda</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ahmed Abosrea</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Ahmed Abosrea</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Enas Hassan</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Enas Hassan</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/haitham.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/haitham.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Haitham Ahmed</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Haitham Ahmed</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/gamal.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/gamal.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mohamed Gamal</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Mohamed Gamal</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ahmed Ibrahim</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Ahmed Ibrahim</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Nouran Ashraf</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Nouran Ashraf</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Nour Foad</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Nour Foad</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/abanob.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/abanob.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Abanob Fawzy</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Abanob Fawzy</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/ehab.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/ehab.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Ehab Naguib</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Ehab Naguib</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/mai.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/mai.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Mai Mostafa</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Mai Mostafa</h4>
                                                 </div>
                                             </a>
                                         </div>
                                         
                                                                             
-                                        <div  class="text-center d-inline-block" style="height: 200px">
+                                        <div  class="text-center d-inline-block mx-3" style="height: 200px; width:130px">
                                             <a href="#" class="text-center py-2 pl-4 pr-4 m-2">
                                                 <div class="person text-center mx-2">
-                                                    <div style="height: 150px;">
-                                                        <img src="/images/components/user.png" alt="" style="width: 90%;">
+                                                    <div style="height: 148px; width: 129px; overflow: hidden;">
+                                                        <img src="/images/components/user.png" alt="" style="width: 100%;">
                                                     </div>
-                                                    <h4 class="mb-2" style="color: #28385e; font-family: 'CustomFont'; margin-top: 10px ; word-wrap: break-word; max-width: 120px; line-height: 25px ; height: 45px;"><strong>Almostafa Loulah</strong></h4>
+                                                    <h4 class="mt-3" style="word-spacing: 130px; line-height: 20px; color: #28385e">Almostafa Loulah</h4>
                                                 </div>
                                             </a>
                                         </div>
