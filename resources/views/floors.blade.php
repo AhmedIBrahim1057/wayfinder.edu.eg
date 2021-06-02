@@ -10,34 +10,21 @@
 
             <div class="levels" style=" width: 100%">
                 <div class="row">
-                    <div class="col-md-2"></div>
-                    <div class="col-md-8">
+                    <div class="col-md-12">
                         <div class="levels-wrapper" style="width: 100%">
                             <div class="row">
-                                <div class="col-md-3">
-                                    <a href="#">
-                                        <img src="/images/components/ground.png" alt="" style="width: 80%">
-                                    </a>
-                                </div>
-                                <div class="col-md-3">
-                                    <a href="#">
-                                        <img src="/images/components/floor-1.png" alt="" style="width: 80%">
-                                    </a>
-                                </div>
-                                <div class="col-md-3">
-                                    <a href="#">
-                                        <img src="/images/components/floor-2.png" alt="" style="width: 80%">
-                                    </a>
-                                </div>
-                                <div class="col-md-3">
-                                    <a href="#">
-                                        <img src="/images/components/floor-3.png" alt="" style="width: 80%">
-                                    </a>
-                                </div>
+                                <div class="col-1"></div>
+                                @foreach ($levels as $floor)
+                                    <div class="col-md-2">
+                                        <a href="/floor/{{$floor->id}}">
+                                            <img src="{{asset($floor->image)}}" alt="" style="width: 80%">
+                                        </a>
+                                    </div>
+                                @endforeach
+                                
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-2"></div>
                 </div>
             </div>
 

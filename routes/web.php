@@ -11,15 +11,17 @@
 |
 */
 
-Route::get('/', function () {
-    return view('/home');
-});
+// Route::get('/', function () {
+//     return view('/home');
+// });
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/', 'HomeController@index')->name('home');
 Route::get('/persons', 'HomeController@persons')->name('persons');
 Route::get('/floors', 'HomeController@floors')->name('floors');
 Route::get('/search', 'HomeController@search')->name('search');
+Route::post('/getAutocompleteData', 'HomeController@getAutocompleteData')->name('getAutocompleteData');
 
-Route::get('/place-details', 'HomeController@placeDetails')->name('place-details');
+Route::get('/place/{id}', 'HomeController@placeDetails')->name('place-details');
+Route::get('/floor/{id}', 'HomeController@floorDetails')->name('place-details');

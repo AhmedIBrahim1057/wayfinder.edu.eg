@@ -42,12 +42,43 @@ class HomeController extends Controller
         $groupedPersons = $persons->groupBy('level_name');  
 
         $levels = Level::all();
+
+        
         return view('home', compact('groupedPlaces', 'groupedPersons', 'levels'));
     }
 
-    public function placeDetails()
+    public function placeDetails($id)
     {
-        return view('place-details');
+        $place = Place::select('places.*', 'levels.name as level_name')
+                        ->with('staff')
+                        ->with('images')
+                        ->leftJoin('levels', 'levels.id', 'places.level_id')
+                        ->findOrFail($id);
+        return view('place-details',['place'=>$place]);
+    }
+
+    public function persons() {
+        $persons = User::select('users.*', 'levels.name as level_name')
+                        ->leftJoin('places', 'places.id', 'users.place_id')
+                        ->leftJoin('levels', 'levels.id', 'places.level_id')
+                        ->get();
+        $groupedPersons = $persons->groupBy('level_name');
+        return view('persons',['groupedPersons'=>$groupedPersons]);
+    }
+
+    public function floors() {
+        $levels = Level::all();
+        return view('floors',['levels'=>$levels]);
+    }
+
+    public function floorDetails($id){
+        $level = Level::select('levels.*')
+                        ->findOrFail($id);
+        return view('floor-details',['level'=>$level]);
+    }
+
+    public function search() {
+        return view('search');
     }
 
     public function getAutocompleteData(Request $request){
@@ -75,18 +106,5 @@ class HomeController extends Controller
         }
 
       return response()->json($response);
-    }
-
-
-    public function persons() {
-        return view('persons');
-    }
-
-    public function floors() {
-        return view('floors');
-    }
-
-    public function search() {
-        return view('search');
     }
 }
